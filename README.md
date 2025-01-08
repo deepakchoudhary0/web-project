@@ -1,2 +1,2 @@
 # web-project
-this is demo for git github for class
+this is demo for git github for class.
